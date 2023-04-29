@@ -8,11 +8,27 @@ share: true
 The whole point of the game is to commands the dwarfs and make them works, which strenghen the tribe I'm leading.  But I think the dwarfs doesn't like an 12 year old in command, because they never do what I order them. All the commands in the manual that involve jobs, somehow never work for me. What's more annoying is that the only dwarf that works in the game is the dwarf that I never give any command to.
 
 7:00 PM: the game is not so confusing after all.
-Most laboring need to set a designation, which settles the area the dwarfs to going to do their jobs on and the jobs the dwarfs are going to do.
+Most labors require an designation, which settles the area the dwarfs are going to do their jobs on and the jobs the dwarfs are going to do in that area. But I didn't set a designation, that's why the dwarfs didn't do their work.
+Note: Even though I figured out how most of the laboring works, I still don't understand how mining works.
 
 26.4.23
 
 I spent one and a half hours studying how to make the dwarfs build and collect things; the results are very surprising. Making the dwarfs collecting is very easy, all you need to do is type p when you are at the main manual, which stands for stockpile. Then, choose the type of objects you wants to collect. All your dwarfs are suppose to be collecting after that.
 
-Making the dwarfs builds is very complex process compare to collecting. First you need to build(b is the command) workshops for the dwarfs crafting more advance artifacts. Than, you need to have the metarials for the dwarts to build. Ativate the workshop are also a pain in the neck, you need a manager and setting a task on the workshop. Last but definely not least, make sure your worker have the crafting option on in the labor manual.
+Making the dwarfs builds is very complex process compare to collecting. First you need to build(b is the command) workshops for the dwarfs to crafts more advance things. Than, you need to have the metarials for the dwarts to craft. Ativate the workshop are also a pain in the neck, you need a manager and setting a task on the workshop. Last but definely not least, make sure your worker can crafts by checking the laboring manual.
 
+27.4.23
+
+It's been a wonderful day for our city of Orukman. We are very lucky to have Orkumann as the ruler. The palace he construct for us is amazing; he is the servent of the people. Spending all the material and manpower on the best interest of the people. The city he design for us will make New York looks like an crumble old villege. He have all the wisdom, kindness, and every other good words I can say about him in his heart.
+
+Truth: Orkumann don't even know his left hand from his right. The building he constucted; that's suppose to be our palace is as lame as hell. There is 19 of us and he only make 3 beds, what's even more annoying is that there's only one room. The city is also poorly design with everyone's workshop skatter everywhere. There are no extra building apart from the workshops and the "palace" and he didn't even notice when his cidicents are dying of thirst.
+
+28.4.23
+
+I learn something very important today, **it's possible to lose in dwarf fortress**. Unfortunaly I have to learn it the hard way. My tribe had run out of water supply and there are no rivers near by, I should I have construcked a well. But I'm busy with the things that don't have much importance. 
+
+Althought it's possible the lose in dwarf fortress, it's not easy. A player can only lose when all of his cidicents are gone.
+
+29.4.23
+
+My knowledge of dwarf fortress just take a leap. 
