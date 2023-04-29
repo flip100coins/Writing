@@ -27,8 +27,10 @@ Truth: Orkumann don't even know his left hand from his right. The building he co
 
 I learn something very important today, **it's possible to lose in dwarf fortress**. Unfortunaly I have to learn it the hard way. My tribe had run out of water supply and there are no rivers near by, I should I have construcked a well. But I'm busy with the things that don't have much importance. 
 
-Althought it's possible the lose in dwarf fortress, it's not easy. A player can only lose when all of his cidicents are gone.
+Althought it's possible the lose in dwarf fortress, it's not easy. A player can only lose when all of his citizens are gone.
 
 29.4.23
 
-My knowledge of dwarf fortress just take a leap. 
+The wood era is over! The stone era have begin! I finally understood how does mining works.  The areas that are green and surround be the yellow walls can't be mined. But I thought it is the area that doesn't exist, because of the blackness.
+
+It took me 4 days to figure that out. When I finally did, it's by incident. I wented to dwarffortesswiki for the mining guild. I already read the actical many times, but I'm still hoping I will find something that I missed earlier. I didn't; then scroll to the top and start reading it over again. Something caught my eye at the top, it's a GIF showing how to designates a area that I didn't paid any attention to. The GIF is showing a the yellow designated area against the black background. I finally put things togather after that, my dwarfs are suppose to mine on the hidden grounds not the grasses.
