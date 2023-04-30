@@ -21,16 +21,27 @@ Making the dwarfs builds is very complex process compare to collecting. First yo
 
 It's been a wonderful day for our city of Orukman. We are very lucky to have Orkumann as the ruler. The palace he construct for us is amazing; he is the servent of the people. Spending all the material and manpower on the best interest of the people. The city he design for us will make New York looks like an crumble old villege. He have all the wisdom, kindness, and every other good words I can say about him in his heart.
 
-Truth: Orkumann don't even know his left hand from his right. The building he constucted; that's suppose to be our palace is as lame as hell. There is 19 of us and he only make 3 beds, what's even more annoying is that there's only one room. The city is also poorly design with everyone's workshop skatter everywhere. There are no extra building apart from the workshops and the "palace" and he didn't even notice when his cidicents are dying of thirst.
+Truth: Orkumann don't even know his left hand from his right. The building he constucted; that's suppose to be our palace is as lame as hell. There is 19 of us and he only make 3 beds, what's even more annoying is that there's only one room. The city is also poorly design with everyone's workshop skatter everywhere. There are no extra building apart from the workshops and the "palace" and he didn't even notice when his citizens are dying of thirst.
 
 28.4.23
 
-I learn something very important today, **it's possible to lose in dwarf fortress**. Unfortunaly I have to learn it the hard way. My tribe had run out of water supply and there are no rivers near by, I should I have construcked a well. But I'm busy with the things that don't have much importance. 
+I learn something very important today, **it's possible to lose in dwarf fortress**. Unfortunally I have to learn it the hard way. My tribe had run out of water supply and there are no rivers near by, I should I have construcked a well. But I'm busy with the things that don't have much importance. 
 
 Althought it's possible the lose in dwarf fortress, it's not easy. A player can only lose when all of his citizens are gone.
 
 29.4.23
 
-The wood era is over! The stone era have begin! I finally understood how does mining works.  The areas that are green and surround be the yellow walls can't be mined. But I thought it is the area that doesn't exist, because of the blackness.
+The wood era is over! The stone era have begun! I finally understood how does mining works. The areas that are green and surround be the yellow walls can't be mined. But I thought that's the only area exists, because outside the walls there are only total blackness. And the result is "Hidden" when I look at it. 
 
-It took me 4 days to figure that out. When I finally did, it's by incident. I wented to dwarffortesswiki for the mining guild. I already read the actical many times, but I'm still hoping I will find something that I missed earlier. I didn't; then scroll to the top and start reading it over again. Something caught my eye at the top, it's a GIF showing how to designates a area that I didn't paid any attention to. The GIF is showing a the yellow designated area against the black background. I finally put things togather after that, my dwarfs are suppose to mine on the hidden grounds not the grasses.
+It took me 4 days to figure that out. When I finally did, it's by accident. I wented to dwarffortesswiki for the mining guild. I already read the actical many times, but I'm still hoping I will find something that I missed earlier. I didn't; I scroll to the top and started reading it over again. Something caught my eye at the top, it's a GIF showing how to designates a mining area that I didn't paid any attention to earily. The GIF is showing a the yellow designated area against the black background. I put things togather after that, my dwarfs are suppose to mine on the "Hidden" not the green fields.
+
+30.4.23
+
+It's the last day of April, apperently it's also the last day of my second dwarf fortress game. I lost the second game in the same way I did in the first one; dehydration. The game actually started pretty well, I get the hang of mining. Build a lot of workshops and other useful construcktion from stones and woods. I even manage to lend my hands on gems.
+
+
+My dwarfs started getting thirsty about 3 hours into the game. But I haven't notice it until they start working very slowly, which means that they will die of dehydration soon. The problem with dwarf fortress is that there are so much information the player don't even know which to focus on. 
+
+I did build a well for them; but I guess wells dry up very quickly in dwarf fortress, because my dwarfs never manage get a drop of water out of it. I try to build another well, but my workers gets couldn't concentrate on their jobs because of a Kea(that's a kind of parrot). I couldn't understand why would this happen, from the desciption in dwarffortresswiki it's just an harmless bird and my workers didn't leave their jobs to catch to the bird neither.
+
+
