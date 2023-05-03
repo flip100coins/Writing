@@ -44,4 +44,17 @@ My dwarfs started getting thirsty about 3 hours into the game. But I haven't not
 
 I did build a well for them; but I guess wells dry up very quickly in dwarf fortress, because my dwarfs never manage get a drop of water out of it. I try to build another well, but my workers gets couldn't concentrate on their jobs because of a Kea(that's a kind of parrot). I couldn't understand why would this happen, from the desciption in dwarffortresswiki it's just an harmless bird and my workers didn't leave their jobs to catch to the bird neither.
 
+1.5.23
 
+
+2.5.23
+
+I spend 1 hour studying traps. In Dwarf fotress there are two kinds of traps, animals traps and military traps. 
+
+Animal traps is kind of like fishing(real life fishing). You put a bait in the trap and wait for the victim. There are 3 kinds of bait, meat, fish, and large gem. I have no idea which creature will fall for the large gem, but meat and fish are use for catching small animals that you can't find in your animal list. The good thing about animal traps is that it usually caught it's victim very quickly, animals will fall for the trap about 1-2 minutes after the trap have been set up. Animal traps and only be use once, the dwarfs will automaticlly destroy them after the trap caught it's victim.
+
+There are 5 kind of military traps. Every trap except cage trap kills or hurts it's victim. I don't know much about the other traps. Cage trap is basicly the opposite of animal trap, it can be use multiple times and it took it's time catching large, high value animals.
+
+3.5.23
+
+I became an biologist!
