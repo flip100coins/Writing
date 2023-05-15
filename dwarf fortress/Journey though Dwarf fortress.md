@@ -65,6 +65,14 @@ Most material and products in dwarf fortress are easy to optain and make, only m
 
 8.5.23 
 
+Subject:
 Military is the only factor that determind win and lose on high level dwarf fortress. The military unit is measure in squad which have 10 dwarfs and is lead by an militia commander. They are responsible for raiding, attacking other site, defending the fortress and rescueing the people that have been capture.  
 
 Raiding a site is like gambling, don't not raid a site until you are 90% sure that you will seceed. I sent a spuad to raid a site 3 times today(just to see how it works), I didn't gain anything from the first raid. But my troop manage to raid 5 animals and a bunch of weapons on the second. I was naive and thought I could devepe my fortress by raiding and nothing else. I learn a lesson soon, on the third time I sent my troop only 4 dwarfs came back. The rest of them is neither imprison nor killed.
+
+5.15.23
+
+Subject: Fortress growing
+There are nothing in the world that is like watching your own fortress growing. However, "growing" can have a very vague meaning in dwarf fortress, it can mean the number of people increasing in your site, the increase of wealth in your fortress, the increase of military strength, and a lot more. 
+
+Growing can be very hard sometime, with underground beasts, goblin raiders, and other troubles. But that's why dwarf fortress are attractive, the feeling of accomplishment as your fortress grow through troubles that kill your last fortress.
