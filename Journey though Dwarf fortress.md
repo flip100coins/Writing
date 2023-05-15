@@ -55,6 +55,16 @@ Animal traps is kind of like fishing(real life fishing). You put a bait in the t
 
 There are 5 kind of military traps. Every trap except cage trap kills or hurts it's victim. I don't know much about the other traps. Cage trap is basicly the opposite of animal trap, it can be use multiple times and it took it's time catching large, high value animals.
 
-3.5.23
+6.5.23
 
-I became an biologist!
+In dwarf fortress, the most important factor is drinks. Without drinks, your dwarfs will die as quickly as the fastest car on earth. The good thing about drinks is that, it's very easy to make from plants. If you got a stable supply of drinks, there's a fairly low chance that your fortress will be defeated.
+
+Another important factor is food, it's also very easy to optain from plants.
+
+Most material and products in dwarf fortress are easy to optain and make, only metal and metal product are exceptions. But metal is very hard to mine.
+
+8.5.23 
+
+Military is the only factor that determind win and lose on high level dwarf fortress. The military unit is measure in squad which have 10 dwarfs and is lead by an militia commander. They are responsible for raiding, attacking other site, defending the fortress and rescueing the people that have been capture.  
+
+Raiding a site is like gambling, don't not raid a site until you are 90% sure that you will seceed. I sent a spuad to raid a site 3 times today(just to see how it works), I didn't gain anything from the first raid. But my troop manage to raid 5 animals and a bunch of weapons on the second. I was naive and thought I could devepe my fortress by raiding and nothing else. I learn a lesson soon, on the third time I sent my troop only 4 dwarfs came back. The rest of them is neither imprison nor killed.
