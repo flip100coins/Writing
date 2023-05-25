@@ -15,7 +15,7 @@ Note: Even though I figured out how most of the laboring works, I still don't un
 
 I spent one and a half hours studying how to make the dwarfs build and collect things; the results are very surprising. Making the dwarfs collecting is very easy, all you need to do is type p when you are at the main manual, which stands for stockpile. Then, choose the type of objects you wants to collect. All your dwarfs are suppose to be collecting after that.
 
-Making the dwarfs builds is very complex process compare to collecting. First you need to build(b is the command) workshops for the dwarfs to crafts more advance things. Than, you need to have the metarials for the dwarts to craft. Ativate the workshop are also a pain in the neck, you need a manager and setting a task on the workshop. Last but definely not least, make sure your worker can crafts by checking the laboring manual.
+Making the dwarfs builds is very complex process compare to collecting. First you need to build(b is the command) workshops for the dwarfs to crafts more advance things. Than, you need to have the materials for the dwarfs to craft. Ativate the workshop are also a pain in the neck, you need a manager and setting a task on the workshop. Last but definely not least, make sure your worker can crafts by checking the laboring manual.
 
 27.4.23
 
@@ -37,7 +37,7 @@ It took me 4 days to figure that out. When I finally did, it's by accident. I we
 
 30.4.23
 
-It's the last day of April, apperently it's also the last day of my second dwarf fortress game. I lost the second game in the same way I did in the first one; dehydration. The game actually started pretty well, I get the hang of mining. Build a lot of workshops and other useful construcktion from stones and woods. I even manage to lend my hands on gems.
+It's the last day of April, apperenlly it's also the last day of my second dwarf fortress game. I lost the second game in the same way I did in the first one; dehydration. The game actually started pretty well, I get the hang of mining. Build a lot of workshops and other useful construcktion from stones and woods. I even manage to lend my hands on gems.
 
 
 My dwarfs started getting thirsty about 3 hours into the game. But I haven't notice it until they start working very slowly, which means that they will die of dehydration soon. The problem with dwarf fortress is that there are so much information the player don't even know which to focus on. 
@@ -93,7 +93,7 @@ Edit: dwarfs are require to do multiple jobs they will went mad if they can't.
 
 17.5.23
 
-Ores have a way of hiding their identity in dwarf fortress. Take iron ore for an example, it's actually one of the most common ore; but you will never find a natural metarial with "iron" in dwarf fortress. Instead, there's a bunch of stone that's suppose to be iron ore with strange names like "lignate". Other ores are a little better, there's gold nugget for an example. But most of the gold resource came also came from stones with odd names.
+Ores have a way of hiding their identity in dwarf fortress. Take iron ore for an example, it's actually one of the most common ore; but you will never find a natural material with "iron" in dwarf fortress. Instead, there's a bunch of stone that's suppose to be iron ore with strange names like "lignate". Other ores are a little better, there's gold nugget for an example. But most of the gold resource came also came from stones with odd names.
 
 18.5.23
 
@@ -101,23 +101,23 @@ If dwarf fortress is a sword, only the design of civilizations can be its blade 
 
 Goblins are aggressive monsters; they will attack every site and destroy it if they succeed. The only reason goblins haven't been wipe out for making so many enemy is because only they know techniques like training trolls.
 
-Humans are smarter, they send agents to other sites that pretented to be visitors; while their real goal is find out the site's secret and reports to their gorverment. Their goverment desided if the site is worth attacking after that, but sometimes agents will desided to steal valuable items on their own.
+Humans are smarter, they send agents to other sites that pretented to be visitors; while their real goal is find out the site's secret and reports to their government. Their government decides if the site is worth attacking after that, but sometimes agents will decided to steal valuable items on their own.
 
 Elves are nature lovers, and are willing to starts wars over a pile of woods, but they are peaceful creatures apart from that. Like goblins, they also have their special techniques, but it isn't as strong and useful as the goblin's.
 
-Kobolds are thiefs that doesn't build any sites, they will sneak into your sites and steal the childrens and vaulable objects.
+Kobolds are thieves that doesn't build any sites, they will sneak into your sites and steal the children and valuable objects.
 
 Dwarfs are... Well they are dwarfs. I never seen dwarfs in an objective angle, but I think they are a combination of goblins and humans; with goblin's aggressive attacks and human's agent strategy.
 
-So this is the civilizitions of dwarf fortress with goblins, dwarfs, humans, and elves continuously attacking each other creating an endless war, while kobold crept into their site and steal their children and actifacts.
+So this is the civilizations of dwarf fortress with goblins, dwarfs, humans, and elves continuously attacking each other creating an endless war, while kobold crept into their site and steal their children and actifacts.
 
 19.5.23
 
-Dwarf fortress is an interesting game, every single part of it is easy; but putting them together and your head is going to explode. Making an indivual happy and growing the fortress is an very good example. 
+Dwarf fortress is an interesting game, every single part of it is easy; but putting them together and your head is going to explode. Making an individual happy and growing the fortress is an very good example. 
 
-The whole point of dwarf fortress is growing the fortress; so you might think making an indivual happy is not that important, wrong! Emotion is the only thing that matter to a dwarf's focus. Poor focus can make an dwarf half the strength it actually is, and sharp focusing can make an dwarf 50 percent better. 
+The whole point of dwarf fortress is growing the fortress; so you might think making an individual happy is not that important, wrong! Emotion is the only thing that matter to a dwarf's focus. Poor focus can make an dwarf half the strength it actually is, and sharp focusing can make an dwarf 50 percent better. 
 
-Keeping a indiviture happy in dwarf fortress is actually a lot harder than growing the fortress. Making a dwarf happy require having the chance to do a job with brain work, fighting, and socialize. Doing jobs, fighting and socialize aren't easy but isn't hard neither; all you need to do is to give the ideal ament of training time and work time. But there are only limiting jobs imvolve with brain working, you can't make all your dwarfs actist, can you?
+Keeping a individual happy in dwarf fortress is actually a lot harder than growing the fortress. Making a dwarf happy require having the chance to do a job with brain work, fighting, and socialize. Doing jobs, fighting and socialize aren't easy but isn't hard neither; all you need to do is to give the ideal admont of training time and work time. But there are only limiting jobs involve with brain working, you can't make all your dwarfs actist, can you?
 
 
 
@@ -130,11 +130,35 @@ Only three things are needed to build an strong military in dwarf fortress and o
 
 22.5.23
 
-After wasting 4 hours trying to make all my dwafs 100% happy, I finally realize it's impossible. The reason is simple; in dwarf fortress, different dwarfs enjoy different things and sometimes the things they enjoy are exactly opposite. There's actually an explanation why; different dwarfs have different contributes(strength, agile, willpower, etc) and that influnce the things they enjoy. But contributes can be change through jobs(I found this out at advanture mode). This leads to a question, what kind of jobs influnce what kind of contribute? Naturally, I could play advanture mode and find out; but it's hard finding a job there and it might take a long time to try all the jobs. For solving this problem, I created contributing project.
+After wasting 4 hours trying to make all my dwarfs 100% happy, I finally realize it's impossible. The reason is simple; in dwarf fortress, different dwarfs enjoy different things and sometimes the things they enjoy are exactly opposite. There's actually an explanation why; different dwarfs have different contributes(strength, agile, willpower, etc) and that influence the things they enjoy. But contributes can be change through jobs(I found this out at adventure mode). This leads to a question, what kind of jobs influence what kind of contribute? Naturally, I could play adventure mode and find out; but it's hard finding a job there and it might take a long time to try all the jobs. For solving this problem, I created contributing project.
 
 
 23.5.23
 
-How does people descibe the way Germans fought in world war 1 and 2? They won the battles but lose the war. That's exactly what had happened to my soldiers. I send my best and secend best squad(1 squad have 10 fighters) to openly attacked an goblin site that have 20 cidizens. They done their job pretty well at first, my commander out match the defending commander, my dwarfs killing 3 goblins without even getting injuried. But that's before the goblins got help from 125 war dogs and trolls. Even after the goblins got help, my dwarfs keep on winning battles, killing way more enemy than they get killed. But they lose the war all the same, they are badly outnumber and the goblins have a nice possitional advantage because the battles are taking place at their site.
+How does people describe the way Germans fought in world war 1 and 2? They won the battles but lose the war. That's exactly what had happened to my squads. I send my best and second best squad(1 squad have 10 fighters) to openly attacked an goblin site that have 20 citizens. They done their job pretty well at first, my commander out match the defending commander at planing, and my dwarfs killing 3 goblins without even getting a scratch. But that's before the goblins got help from 125 war dogs and trolls. Even after the goblins got help, my dwarfs keep on winning battles, killing way more enemy than they get killed. But they lose the war all the same, they are badly outnumber and the goblins have a nice positional advantage because the battles are taking place at their site.
 
 Contributing project update.
+
+24.5.23
+
+An bloody war had just taken place on my site. A goblin army with 40 solders attacked my fortress; and I sent my best squad to meet them. The war ended quickly, with victory in my hand. My squad killed all the attackers, but 3 of my best solders also die, including my military commander. 
+
+To be honest, 3 solders aren't much to pay for fending off an attack; but a skill commander? That's more than enough. When squads attack a site, half of the success depends on the military commander. The hard thing about getting a good commander is that nothing other than a real battle can improve it's skill. So, to have an good military commander it need to attack a site and survive back to improve.
+
+***
+
+I have done it! I have reach the caverns! Caverns are huge underground tunnels that only appear in 40- levels or below. Inside it there's eatable plants, beasts, fishes, webs.
+
+
+Contributing project update
+
+25.5.23
+
+
+
+
+
+
+
+
+
