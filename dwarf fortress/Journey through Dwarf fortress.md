@@ -51,9 +51,9 @@ I did build a well for them; but I guess wells dry up very quickly in dwarf fort
 
 I spend 1 hour studying traps. In Dwarf fotress there are two kinds of traps, animals traps and military traps. 
 
-Animal traps is kind of like fishing(real life fishing). You put a bait in the trap and wait for the victim. There are 3 kinds of bait, meat, fish, and large gem. I have no idea which creature will fall for the large gem, but meat and fish are use for catching small animals that you can't find in your animal list. The good thing about animal traps is that it usually caught it's victim very quickly, animals will fall for the trap about 1-2 minutes after the trap have been set up. Animal traps and only be use once, the dwarfs will automaticlly destroy them after the trap caught it's victim.
+Animal traps is kind of like fishing(real life fishing). You put a bait in the trap and wait for the victim. There are 3 kinds of bait, meat, fish, and large gem. I have no idea which creature will fall for the large gem, but meat and fish are use for catching small animals that you can't find in your animal list. The good thing about animal traps is that it usually caught it's victim very quickly, animals will fall for the trap about 1-2 minutes after the trap have been set up. Animal traps and only be use once, the dwarfs will automatically destroy them after the trap caught it's victim.
 
-There are 5 kind of military traps. Every trap except cage trap kills or hurts it's victim. I don't know much about the other traps. Cage trap is basicly the opposite of animal trap, it can be use multiple times and it took it's time catching large, high value animals.
+There are 5 kind of military traps. Every trap except cage trap kills or hurts it's victim. I don't know much about the other traps. Cage trap is basically the opposite of animal trap, it can be use multiple times and it took it's time catching large, high value animals.
 
 6.5.23
 
@@ -66,7 +66,7 @@ Most material and products in dwarf fortress are easy to optain and make, only m
 8.5.23 
 
 Subject:
-Military is the only factor that determind win and lose on high level dwarf fortress. The military unit is measure in squad which have 10 dwarfs and is lead by an militia commander. They are responsible for raiding, attacking other site, defending the fortress and rescueing the people that have been capture.  
+Military is the only factor that determine win and lose on high level dwarf fortress. The military unit is measure in squad which have 10 dwarfs and is lead by an militia commander. They are responsible for raiding, attacking other site, defending the fortress and rescueing the people that have been capture.  
 
 Raiding a site is like gambling, don't not raid a site until you are 90% sure that you will seceed. I sent a spuad to raid a site 3 times today(just to see how it works), I didn't gain anything from the first raid. But my troop manage to raid 5 animals and a bunch of weapons on the second. I was naive and thought I could devepe my fortress by raiding and nothing else. I learn a lesson soon, on the third time I sent my troop only 4 dwarfs came back. The rest of them is neither imprison nor killed.
 
@@ -147,17 +147,22 @@ To be honest, 3 solders aren't much to pay for fending off an attack; but a skil
 
 ***
 
-I have done it! I have reach the caverns! Caverns are huge underground tunnels that only appear in 40- levels or below. Inside it there's eatable plants, beasts, fishes, webs.
+I have done it! I have reach the caverns! Caverns are huge underground tunnels that only appear in 40- levels or below. Inside it there's eatable plants, beasts, fishes, webs, and other interesting things that I haven't stumble on yet.
 
 
 Contributing project update
 
 25.5.23
 
+Is defensive battle a kind of default military training, or I haven't seen any real war? My fortress faced two attacks today, my squads manage to kill at least 90% of my attackers without losing a single dwarf. 
 
+The first attack is form by mostly goblins, but there's also humans and elves. At the first attack, there are about 10 grizely bears and elves that ambush the defenders. But they are no match for my dwarfs, they slaughter them like pigs. The rest of the invaders wasn't any luckier either; they put up a fight, but most of them got killed by my dwarfs all the same.
 
+The second attack is form by purely goblins, there's 40 of them. The second attack is just like the first, my dwarfs winning and killing most of the invaders without getting killed.
 
+---
 
+So, I have been thinking. If my dwarfs is so strong, fending off 2 attacks without even losing a single dwarf; why couldn't they win any open attacks?
 
 
 
