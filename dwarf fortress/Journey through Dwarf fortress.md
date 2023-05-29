@@ -49,7 +49,7 @@ I did build a well for them; but I guess wells dry up very quickly in dwarf fort
 
 2.5.23
 
-I spend 1 hour studying traps. In Dwarf fotress there are two kinds of traps, animals traps and military traps. 
+I spend 1 hour studying traps. In Dwarf fortress there are two kinds of traps, animals traps and military traps. 
 
 Animal traps is kind of like fishing(real life fishing). You put a bait in the trap and wait for the victim. There are 3 kinds of bait, meat, fish, and large gem. I have no idea which creature will fall for the large gem, but meat and fish are use for catching small animals that you can't find in your animal list. The good thing about animal traps is that it usually caught it's victim very quickly, animals will fall for the trap about 1-2 minutes after the trap have been set up. Animal traps and only be use once, the dwarfs will automatically destroy them after the trap caught it's victim.
 
@@ -68,7 +68,7 @@ Most material and products in dwarf fortress are easy to optain and make, only m
 Subject:
 Military is the only factor that determine win and lose on high level dwarf fortress. The military unit is measure in squad which have 10 dwarfs and is lead by an militia commander. They are responsible for raiding, attacking other site, defending the fortress and rescueing the people that have been capture.  
 
-Raiding a site is like gambling, don't not raid a site until you are 90% sure that you will seceed. I sent a spuad to raid a site 3 times today(just to see how it works), I didn't gain anything from the first raid. But my troop manage to raid 5 animals and a bunch of weapons on the second. I was naive and thought I could devepe my fortress by raiding and nothing else. I learn a lesson soon, on the third time I sent my troop only 4 dwarfs came back. The rest of them is neither imprison nor killed.
+Raiding a site is like gambling, don't not raid a site until you are 90% sure that you will succeed. I sent a squad to raid a site 3 times today(just to see how it works), I didn't gain anything from the first raid. But my troop manage to raid 5 animals and a bunch of weapons on the second. I was naive and thought I could devepe my fortress by raiding and nothing else. I learn a lesson soon, on the third time I sent my troop only 4 dwarfs came back. The rest of them is neither imprison nor killed.
 
 15.5.23
 
@@ -162,8 +162,29 @@ The second attack is form by purely goblins, there's 40 of them. The second atta
 
 ---
 
-So, I have been thinking. If my dwarfs is so strong, fending off 2 attacks without even losing a single dwarf; why couldn't they win any open attacks?
+So, I have been thinking. If my dwarfs are so strong, fending off 2 attacks without even losing a single dwarf; why couldn't they win any battle when they are the attackers?
+
+
+26.5.23
+
+I had dug through 100th levels and no magma. It's actually very annoying, because magma is one of the most interesting substance. Magma can be use to power up magma smelters and forges which could replace coal burning smelters and forges. That would stops the manpower wasted on coal once and for all. But the usefulness of magma doesn't stops on melting metals, it can be use to design traps and other stuff. What's fun about magma is that it will never cools down.
+
+
+
+27.5.23
+
+The dwarf fortress mode and adventure mode in dwarf fortress is, in a degree, the opposite of each other. The player know everything in fortress mode, from the big changes of civilization to tiniest details of mussel shell. And from the information, the player tries to make the fortress as strong as possible. But it's the exact opposite in adventure mode, the player don't have any information on the world. But they don't have to worry about growing the fortress or staying alive. 
+
+28.5.23
+
+The real danger in dwarf fortress isn't from the outside threat of civilizations, but from the inside danger of caverns. The threat of civilizations only come in military forces from outside of the fortress which makes it really hard to hurts the citizens inside the fortress. But the beasts from the caverns is even more unpredictable than the threat in outside and it can do to way more damage since it's already in your fortress. To make matters worst, caverns are full of valuable material, that doesn't appear elsewhere. And if there are workers in the place of the generated beast, they will be kill faster before your solders could grab their weapon, let alone save them.
 
 
 
 
+29.5.23
+
+I have two meetings with beasts in dwarf fortress so far, they are very strong, more powerful than my best solder; but not indestructible. I bet they can take down any other creatures I had seen so far at a 1 to 1 battle. Although they are powerful, being seriously outnumbered 1 to 10 by my solders kill them.
+
+***
+The 
