@@ -177,14 +177,26 @@ The dwarf fortress mode and adventure mode in dwarf fortress is, in a degree, th
 
 28.5.23
 
-The real danger in dwarf fortress isn't from the outside threat of civilizations, but from the inside danger of caverns. The threat of civilizations only come in military forces from outside of the fortress which makes it really hard to hurts the citizens inside the fortress. But the beasts from the caverns is even more unpredictable than the threat in outside and it can do to way more damage since it's already in your fortress. To make matters worst, caverns are full of valuable material, that doesn't appear elsewhere. And if there are workers in the place of the generated beast, they will be kill faster before your solders could grab their weapon, let alone save them.
+The real danger in dwarf fortress isn't from the outside threat of civilizations, but from the inside danger of caverns. The threat of civilizations only come in military forces from outside of the fortress which makes it really hard to hurts the citizens inside the fortress. But the beasts from the caverns is even more unpredictable than the threat in outside and it can do to way more damage since it's already in your fortress. To make matters worst, caverns are full of valuable material, that doesn't appear elsewhere. And if there are workers in the place of the generated beast, they will be kill faster before than my solders 
+could grab their weapon, let alone save them.
 
+***
 
+It's **industrial revolution**! I have discovered magma sea, adamantine, and diamond. It meant my fortress will be able to produce better products with greater speed. For example, making clothing from thread is a complicated process, dwarfs are needed at collecting webs and then weave them into clothes; but with adamantine my fortress will be able to produce more useful adamentine clothing with fewer processes. 
 
+Discovering magma are also an breakthrough. Like I said before; with magma, I could replace coal burning smelters and forges with magma forges and smelters. It meant I could stop wasting *dwarf-power* producing coals.
+
+I'm not sure diamond will be as useful as magma and adamantine. But it could be decorate with finished goods like any other gems which would increase my wealth a lot.
 
 29.5.23
 
-I have two meetings with beasts in dwarf fortress so far, they are very strong, more powerful than my best solder; but not indestructible. I bet they can take down any other creatures I had seen so far at a 1 to 1 battle. Although they are powerful, being seriously outnumbered 1 to 10 by my solders kill them.
+I have two meetings with beasts in dwarf fortress so far, they are very strong, more powerful than my best solder; but not indestructible. I bet they can take down any other creatures I had seen so far at a 1 to 1 battle. Although they are powerful, being seriously outnumbered 1 to 10 by my solders is the main reason they got killed without managing to take down anyone with them.
 
 ***
-The 
+
+Prepare foods will actually rots in dwarf fortress even if they are store in barrels. Which makes sense, after all, barrels aren't refrigerators. Although there isn't any refrigerators in dwarf fortress, foods won't rot if they are store in wagons or stockpiles. 
+
+I didn't know that, and haven't designated enough area for food storing, so my dwarfs leaves them in the kitchens. I paid the price for it, about 95% of my foods rotted and what's left of will be eaten in a week. So I need all of my dwarfs to starts producing foods which won't strengthen my fortress very much, they are gathering plants, hunting and fishing. That's not all, rotten foods produce miasma which is what dwarfs hates and I have to wait for them to throw away all of the rotten food before they can starts producing foods.
+
+
+30.5.23
