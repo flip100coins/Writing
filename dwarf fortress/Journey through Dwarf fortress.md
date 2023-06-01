@@ -177,14 +177,56 @@ The dwarf fortress mode and adventure mode in dwarf fortress is, in a degree, th
 
 28.5.23
 
-The real danger in dwarf fortress isn't from the outside threat of civilizations, but from the inside danger of caverns. The threat of civilizations only come in military forces from outside of the fortress which makes it really hard to hurts the citizens inside the fortress. But the beasts from the caverns is even more unpredictable than the threat in outside and it can do to way more damage since it's already in your fortress. To make matters worst, caverns are full of valuable material, that doesn't appear elsewhere. And if there are workers in the place of the generated beast, they will be kill faster before your solders could grab their weapon, let alone save them.
+The real danger in dwarf fortress isn't from the outside threat of civilizations, but from the inside danger of caverns. The threat of civilizations only come in military forces from outside of the fortress which makes it really hard to hurts the citizens inside the fortress. But the beasts from the caverns is even more unpredictable than the threat in outside and it can do to way more damage since it's already in your fortress. To make matters worst, caverns are full of valuable material, that doesn't appear elsewhere. And if there are workers in the place of the generated beast, they will be kill faster before than my solders 
+could grab their weapon, let alone save them.
 
+***
 
+It's **industrial revolution**! I have discovered magma sea, adamantine, and diamond. It meant my fortress will be able to produce better products with greater speed. For example, making clothing from thread is a complicated process, dwarfs are needed at collecting webs and then weave them into clothes; but with adamantine my fortress will be able to produce more useful adamentine clothing with fewer processes. 
 
+Discovering magma are also an breakthrough. Like I said before; with magma, I could replace coal burning smelters and forges with magma forges and smelters. It meant I could stop wasting *dwarf-power* producing coals.
+
+I'm not sure diamond will be as useful as magma and adamantine. But it could be decorate with finished goods like any other gems which would increase my wealth a lot.
 
 29.5.23
 
-I have two meetings with beasts in dwarf fortress so far, they are very strong, more powerful than my best solder; but not indestructible. I bet they can take down any other creatures I had seen so far at a 1 to 1 battle. Although they are powerful, being seriously outnumbered 1 to 10 by my solders kill them.
+I have two meetings with beasts in dwarf fortress so far, they are very strong, more powerful than my best solder; but not indestructible. I bet they can take down any other creatures I had seen so far at a 1 to 1 battle. Although they are powerful, being seriously outnumbered 1 to 10 by my solders is the main reason they got killed without managing to take down anyone with them.
 
 ***
-The 
+
+Prepare foods will actually rots in dwarf fortress even if they are store in barrels. Which makes sense, after all, barrels aren't refrigerators. Although there isn't any refrigerators in dwarf fortress, foods won't rot if they are store in wagons or stockpiles. 
+
+I didn't know that, and haven't designated enough area for food storing, so my dwarfs leaves them in the kitchens. I paid the price for it, about 95% of my foods rotted and what's left of will be eaten in a week. So I need all of my dwarfs to starts producing foods which won't strengthen my fortress very much, they are gathering plants, hunting and fishing. That's not all, rotten foods produce miasma which is what dwarfs hates and I have to wait for them to throw away all of the rotten food before they can starts producing foods. 
+
+
+31.5.23
+
+I had conquered a site! My worst active squad was sent to conquered an elf site with less than 10 people. If the squad(s) successfully conquer a site; the dwarfs won't come back, so sending my best squads doesn't seems like a smart choice. After my squads conquer a site, I could requests workers from the site and they will become citizens on my site.
+
+***
+
+A great battle have taken place **inside** my fortress. If I have to name it, I would name it "the battle of hundred hungry heads(hungry heads are giant bats that live inside the caverns)". It have all started with my miners exploring the cavern and finding adamantines, but there are hundred of hungry heads wondering near the treasure. My miners couldn't even reach adamantines without getting their heads bite off. 
+
+So I did the obvious thing, I send the military forces. I thought it's a win-win-win, because real combat improves a dwarf's fighting skill way more quickly than training and there would be hundreds meat unit from the hungry head's corpses, while my miners could safely mine the adamantine. But things turns out to be win-win-win-loss, although the battle did improves my fighter's skill and got a bunch of hungry head meats while ensure the safety of mining adamantine, 5 of my regular citizens also end up in the battle and 3 of them got killed.
+
+1.6.23
+
+What a marvelous coincidence! My old military commander die in a battle of defense, I haven't bury him, and he turned into a ghost, staying in the outdoors of where he died. He didn't do anything so I ignored him. But after the battle of hungry heads, I wanted to see some more killings and send a squad after him. But it's impossible to kill someone who is already dead, in fact, there's not even fighting taking place. 
+
+After I realize that, I cancel my order of killing the ghost. 50 elves and humans ambush my fortress ground right after my dwarfs starts to returning to the fortress. I ordered them to went back and a fight broke out. The result is nearly the same as always, my fighters killed all of the invaders without getting killed. But this time, I manage to catch an invader alive, but unfortunately it's only an horse. 
+
+***
+
+Moving industries to the caverns are actually easier than I thought, I don't even need mine-carts. Caverns are so rich of materials that collecting new ones are actually easier than moving old ones. So I could just build new workshops and collect materials instead of hauling them down 150 levels. 
+
+***
+
+Requesting workers from other sites is an tough job, in fact, I don't even know how to do it. The only dwarfs that can be requested to my site are historical figures. In other words, they are dwarfs that have done something worth remembering and can be read on legends mode. And to requests them, a messenger is require. But for some reason they didn't do what I order them to do.
+
+***
+
+I finally 
+
+
+
+
