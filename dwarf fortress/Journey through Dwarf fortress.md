@@ -221,11 +221,21 @@ Moving industries to the caverns are actually easier than I thought, I don't eve
 
 ***
 
-Requesting workers from other sites is an tough job, in fact, I don't even know how to do it. The only dwarfs that can be requested to my site are historical figures. In other words, they are dwarfs that have done something worth remembering and can be read on legends mode. And to requests them, a messenger is require. But for some reason they didn't do what I order them to do.
+Requesting workers from other sites is an tough job, in fact, I don't even know how it works. The only dwarfs that can be requested to my site are historical figures. In other words, they are dwarfs that have done something worth remembering and can be read on legends mode. And to requests them, a messenger is require. But for some reason they didn't do what I order them to do.
 
-***
+2.6.23
 
-I finally 
+My dwarfs seems to be working very slowly lately, and the reason for that? Lagging; turns out dwarf fortress needs a higher requirement of CPU than I thought. Dwarf fortress must be lagging since my population reach 50, but it's must have speed decreased slowly and that's why I haven't notice it for so long.
+
+11.6.23
+
+I have been playing dwarf fortress with FPS observation. My population reached 50 dwarfs without any lagging. But after it reached 80 there's a bit of lagging, although my FPS is above 80 which is playable in my opinion. My goal is to have a 100 dwarfs population and have a FPS above 80 without game alteration. But if I can't have that, 100 dwarfs population with and 80 FPS with temperture and weather is also fine with me.
+
+12.6.23
+
+My computer fail to run dwarf fortress with 100 dwarfs and above 80 FPS. But lucky, it manage to run 100 dwarfs and 95 FPS with temperture and weather alteration. 
+
+
 
 
 
