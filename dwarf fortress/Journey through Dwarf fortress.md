@@ -229,11 +229,27 @@ My dwarfs seems to be working very slowly lately, and the reason for that? Laggi
 
 11.6.23
 
-I have been playing dwarf fortress with FPS observation. My population reached 50 dwarfs without any lagging. But after it reached 80 there's a bit of lagging, although my FPS is above 80 which is playable in my opinion. My goal is to have a 100 dwarfs population and have a FPS above 80 without game alteration. But if I can't have that, 100 dwarfs population with and 80 FPS with temperture and weather is also fine with me.
+I have been playing dwarf fortress with FPS observation. My population reached 50 dwarfs without any lagging. But after it reached 80 there's a bit of lagging, although my FPS is above 80 which is playable in my opinion. My goal is to have a 100 dwarfs population and have a FPS above 80 without game alteration. But if I can't have that, 100 dwarfs population with and 80 FPS with some game alteration that won't have a big impact on the game is also fine with me.
 
 12.6.23
 
-My computer fail to run dwarf fortress with 100 dwarfs and above 80 FPS. But lucky, it manage to run 100 dwarfs and 95 FPS with temperture and weather alteration. 
+My computer fail to run dwarf fortress with 100 dwarfs and above 80 FPS. But lucky, it manage to run 100 dwarfs and 95 FPS with temperature and weather alteration. 
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
