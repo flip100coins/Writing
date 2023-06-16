@@ -225,7 +225,7 @@ Requesting workers from other sites is an tough job, in fact, I don't even know 
 
 2.6.23
 
-My dwarfs seems to be working very slowly lately, and the reason for that? Lagging; turns out dwarf fortress needs a higher requirement of CPU than I thought. Dwarf fortress must be lagging since my population reach 50, but it's must have speed decreased slowly and that's why I haven't notice it for so long.
+My dwarfs seems to be working very slowly lately, and the reason for that? Lagging; turns out dwarf fortress needs a higher requirement of CPU than I thought. Dwarf fortress must be lagging since my population reach 50, but the speed must have decreased slowly and that's why I haven't notice it for so long.
 
 11.6.23
 
@@ -233,16 +233,25 @@ I have been playing dwarf fortress with FPS observation. My population reached 5
 
 12.6.23
 
-My computer fail to run dwarf fortress with 100 dwarfs and above 80 FPS. But lucky, it manage to run 100 dwarfs and 95 FPS with temperature and weather alteration. 
+My computer fail to run dwarf fortress with 100 dwarfs and above 80 FPS. But lucky, it manage to run 100 dwarfs and 95 FPS with temperature and weather alteration.
+
+13.6.23
+
+The decrease rate of FPS in dwarf fortress after my computer reached it's limit is insane. I managed to get a FPS of 95 with a normal 4 * 4 site that have exactly 100 dwarfs. But after my population rose to 102, FPS decreased to 80, and sometimes even dropped to 70.
 
 ***
 
+A military is make up of two things, soldiers and equipment. Suppose you only have a military with 20 novice-level soldiers(novice is the second lowest level) and your fortress is going to be invaded in a short time, how can you build a strong military out of your current military? Soldiers isn't the key because training good soldiers require many years; but making equipment compare to training solders require no time at all. But what's the equipment that can manage over-power mega-beasts and goblin invasions? Adamantine.
 
+Adamantine equipment is the best equipment for military, metal weapons have noway of slicing through adamantine armors, and adamantine weapons can slice through metal armors like cakes. But adamantine is very rare, so finding enough adamantine for 20 set of armors and weapons is very hard.
 
+14.6.23
 
+The meaning of caverns to dwarf fortress is like the meaning of dwarf fortress to me. 
 
+Caverns is one of those *fun* places in dwarf fortress, it have many valuable materials and creatures; most of them doesn't appear elsewhere. It's also dangerous, intelligent creatures and beasts also live in the caverns; but that only make it more *fun*.
 
-
+But it's also annoying in reality, caverns take up much of my CPU dill to it's complexity in path-finding and makes the game lag.   
 
 
 
