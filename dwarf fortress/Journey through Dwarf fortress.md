@@ -253,11 +253,16 @@ Caverns is one of those *fun* places in dwarf fortress, it have many valuable ma
 
 But it's also annoying in reality, caverns take up much of my CPU dill to it's complexity in path-finding and makes the game lag.   
 
+15.6.23
+
+Imagine this: the love god Eros from Greek myth flying in the sky with his bow and arrows, shooting at a crowd of humans on the ground. 
+
+I tried to create this imagine in dwarf fortress, adventure mode. There's actually a good reason why this is useful in the game, let alone fun. 
 
 
+16.6.23 to 23.6.23: collecting material for Unfolding adventure mode, aka playing adventure mode.
 
-
-
+23.6.23-24.6.23: writing Unfolding adventure mode. 
 
 
 
