@@ -262,7 +262,7 @@ I tried to create this imagine in dwarf fortress, adventure mode. There's actual
 
 16.6.23 to 23.6.23: collecting material for Unfolding adventure mode, aka playing adventure mode.
 
-23.6.23-24.6.23: writing Unfolding adventure mode. 
+23.6.23-24.6.26: writing Unfolding adventure mode. 
 
 
 
