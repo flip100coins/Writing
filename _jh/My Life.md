@@ -211,5 +211,5 @@
 [^4]: Son was born.
 [^5]: Daughter was born.
 [^6]: Life is like a function that convert days in future, which is beyond waiting, into the immutable past. The only thing you can modify is now - the function itself.
-[^7]: According to a life expectancy calculator I can live to 88, which sounds not bad to me. I wonder what I can accomplish by then. Note: Newton invented calculus at 24 and Einstein proposed special theory of relativity at 26.
+[^7]: According to a life expectancy calculator I can live to 88, which sounds not bad to me. I wonder what I can accomplish by then. Newton invented calculus at 24 and Einstein proposed special theory of relativity at 26. I am, well, 45.
 [^8]: If I finally get here, I want to have an ice cream at my 100th birthday.
