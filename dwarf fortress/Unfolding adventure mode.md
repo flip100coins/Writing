@@ -13,11 +13,18 @@ In fortress mode, time passes in a constant speed. A day in fortress mode is equ
 
 ## Sites
 
-Sites is a complex element in adventure mode. There's useful products in almost every sites, like well-craft weapons and armors; it's also a place full with intelligent creatures; some sites are also targets for elimination; and they are only way to visit the caverns.
+Sites is a complex element in adventure mode. There's useful products in almost every sites, like well-craft weapons and armors; it's also a place full of intelligent creatures; some sites are also targets for elimination; and they are only way to visit the caverns.
+There are many kind of sites, but all of them can be split into two groups, sites of the main civilizations which is dwarf, goblin, elves, human and kobold sites and the other sites.
 
-There are many kind of sites, dwarf sites, goblin sites, elf sites, human sites and many more. There's two kind of dwarf sites, fortresses and hillocks. Fortresses are one complex, gigantic hole dug deep underground; while hillocks are more like real life village with small, above and underground buildings. The goblins site are almost the same as dwarf sites, goblins has their fortress that are call dark fortress and also has their own hillock with the name dark pit. Elves only live on tree houses, which gives them a natural adventure when it comes to defending sites(shooting arrows down the trees is always easy than shooting the other way around). The humans in dwarf fortress, like the humans in real life, live in above-ground buildings.
+There are two kind of dwarf sites, fortresses and hillocks. Fortresses are one complex, gigantic hole dug deep underground; while hillocks are more like real life village with small, above and underground buildings. The goblins site are almost the same as dwarf sites, goblins has their own fortress that are call dark fortress and also has their own hillock with the name dark pit. Elves only live on tree houses, which gives them a natural adventure when it comes to defending sites(shooting arrows down the trees is always easier than shooting the other way around). The humans in dwarf fortress, like the humans in real life, live in above-ground buildings. Kobolds doesn't build sites in their name; instead, they build bandit sites. 
 
-Beside the sites of the main civilizations, there's the sites of undead and bandits. 
+Usually, the bandits and undead sites won't have as much citizens as the sites of the main civilizations. But they attack every visitor and kill them. They are also very good at it too, almost 90% of the citizens in the bandits site are fighters and the undeads also have an advantage in fighting because they can't feel pain.
+
+Most beasts have their own site. Although they won't build much in it, they will attack anyone who have entered their territory.
+
+## Caverns 
+
+Caverns 
 
 ## Attribute
 
@@ -54,4 +61,9 @@ attributes.
 
 ### Combat skills
 
-There are many kind of combat skills, sword skill, spear skill, mace skill, crossbow skill, bow skill and many more.
+There are many kind of combat skills, fighter skill, sword skill, spear skill, mace skill, crossbow skill, bow skill and many more.
+
+There are a few skills that matters in a fight, no matter which weapon you are holding, I call them general combat skills. Specify skills is the skills I call that matters to the weapon you are holding. 
+
+There's two kind of combat skills, general combat skills and specify combat skills. There are only two kind of general combat skill, fighter skill and 
+
