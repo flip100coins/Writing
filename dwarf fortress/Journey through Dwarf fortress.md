@@ -277,7 +277,11 @@ Undeads invade sites in the goblin fashion, which is, direct attack and kill all
 
 8.7.23
 
-Another fortress have come and go; like nearly every other destruction of my fortresses, it's by the hands of undeads. My fortress was in it's early days with just 20 citizens, when an undead troop of 40 people attacked. I didn't even have a military yet; all my citizens are killed without mercy. What's even more upsetting is that not a undead soldiers have been killed throughout the battle.
+Another fortress have come and go; like nearly every other destruction of my fortresses, it's by the hands of undeads. My fortress was in it's early days with just 20 citizens, when an undead troop of 40 people attacked. I didn't even have a military yet; all my citizens are killed without mercy. What's even more upsetting is that not a undead soldiers have been killed throughout the battle. But, I got the key to stops undeads from destroying my site.  
 
-Even though, I got crush. I
+It was pretty obvious to me that, military forces alone can not stop undead forces from destroying my site. So, I constructed a bunch of basic traps in my fortress main hall. They are; stone-fall trap, weapon trap, and cage trap. Stone-fall trap is a trap that drop a stone on it's victim when activated; weapon trap work similarly, with weapons bashing it's victim. They did nothing to stops the undeads, they only managed to creates wounds in the undeads and wounds doesn't them. The cage traps were pretty successive, all of them manage to caught their victim. And when creatures(any creatures) are caught by the cage traps, they have noway of getting out without outside help. But there is just too few of them, if I have manage to build 40 cage traps in my main hall, I might be able to catch all of them.
+
+9.7.23
+
+
 
