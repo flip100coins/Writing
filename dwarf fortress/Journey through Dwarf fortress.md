@@ -284,4 +284,3 @@ It was pretty obvious to me that, military forces alone can not stop undead forc
 9.7.23
 
 
-
