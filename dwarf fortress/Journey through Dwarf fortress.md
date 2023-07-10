@@ -260,13 +260,27 @@ Imagine this: the love god Eros from Greek myth flying in the sky with his bow a
 I tried to create this imagine in dwarf fortress, adventure mode. There's actually a good reason why this is useful in the game, let alone fun. 
 
 
-16.6.23 to 23.6.23: collecting material for Unfolding adventure mode, aka playing adventure mode.
+16.6.23 to 23.6.23: collecting material for [[Unfolding adventure mode]], aka playing adventure mode.
 
-23.6.23-24.6.26: writing Unfolding adventure mode. 
-
-
+23.6.23-28.6.23: writing [[Unfolding adventure mode]]. 
 
 
+7.7.23
 
+The only force that manage threatens my fortress are the super powerful mega-beasts, nor the wicked goblins; but the cursed Undeads. Saying that Undeads destroyed my site may not be entirely fair, they are only minions of a Necromancer. In the forces that destroyed by site, there's Necromancer taking the lead, with zombies following close behind it, there's also the undeads, 95% of the army are fill with them.
+
+Zombies are nasty creatures, they have the ability to curse other creatures with a wave of its hand. they actually know not only one kind of curse, but many. It can creates bleeding, pain, poisoning, and dizziness and a kind that I forgot. But there's also a weakness in it's curses; it's a short range weapon and can only curse creatures that are in 15 tiles.
+
+Necromancer is rather complicate, it can creates undead out of corpses and skeletons. But there's no garantee that the undeads it created will be on the same side as it. Theoretically, it can also sommon *nightmares* that are in it's side, but I never seen any Necromancer do it  in fortress mode.
+
+Undeads invade sites in the goblin fashion, which is, direct attack and kill all the living thing in the fortress. They are also better than goblins at it too. Unlike goblins, they come in vast number, always manages to outnumbered my citizens. 
+
+8.7.23
+
+Another fortress have come and go; like nearly every other destruction of my fortresses, it's by the hands of undeads. My fortress was in it's early days with just 20 citizens, when an undead troop of 40 people attacked. I didn't even have a military yet; all my citizens are killed without mercy. What's even more upsetting is that not a undead soldiers have been killed throughout the battle. But, I got the key to stops undeads from destroying my site.  
+
+It was pretty obvious to me that, military forces alone can not stop undead forces from destroying my site. So, I constructed a bunch of basic traps in my fortress main hall. They are; stone-fall trap, weapon trap, and cage trap. Stone-fall trap is a trap that drop a stone on it's victim when activated; weapon trap work similarly, with weapons bashing it's victim. They did nothing to stops the undeads, they only managed to creates wounds in the undeads and wounds doesn't them. The cage traps were pretty successive, all of them manage to caught their victim. And when creatures(any creatures) are caught by the cage traps, they have noway of getting out without outside help. But there is just too few of them, if I have manage to build 40 cage traps in my main hall, I might be able to catch all of them.
+
+9.7.23
 
 

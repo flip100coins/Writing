@@ -1,0 +1,5 @@
+It's a beautiful day in a beautiful place. The sun is high up in the sky of Ogmuck, with a few clouds floating beside it like lambs dancing around a fire. The sun is blight, but not hot. It's lights cover Ogmuck like a blanket covering a bed in a cool day. Wind and birds express their happiness by singing. The trees show their support by waving it's branches, occasionally dropping leaves for the wind and always handing fruits to the birds. The footstep and squeak of the small mammals are also added to the music. Flowers glow in the glasses like gems from the soil. A river flow through the beautiful place; fishes, crabs and lobsters could be seen through the clear water. 
+
+It will be the perfect place for a vacation if you aren't afraid of being kidnapped bandits, a hour walk to the north of Ogmuch stood a  
+
+and an ambush! Half of the military of 
