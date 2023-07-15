@@ -22,13 +22,17 @@ Usually, the bandits and undead sites won't have as much citizens as the sites o
 
 Most beasts have their own site. Although they won't build much in it, they will attack anyone who have entered their territory.
 
+## Races
+
+In adventure mode, you don't need to be a dwarf. In fact, you don't even need to be in the main races at all. You can be anything at all intelligent, tiger man, lion man, and even bat man. I'm really amaze that, there's so many other intelligent creatures and none of then ever become historical figures. Maybe because they life in the wild and never bother to creates civilizations. 
+
 ## Caverns 
 
-Caverns 
+Caverns are connective layers that connect fortresses together, there's even little fortresses that can only be visited from the caverns. 
 
 ## Attribute
 
-Since you are only controlling one dwarf, attributes in adventure mode is a lot more important than in fortress mode. They affects your character's body and are directly involve with how it's mind works. 
+Since you are only controlling one creature, attributes in adventure mode is a lot more important than in fortress mode. They affects your character's body and are directly involve with how it's mind works. 
 
 ## Skills
 
@@ -61,9 +65,19 @@ attributes.
 
 ### Combat skills
 
-There are many kind of combat skills, fighter skill, sword skill, spear skill, mace skill, crossbow skill, bow skill and many more.
+There are a few skills that affect how you do in a fight, generally; no matter which weapon you are holding, I call them general combat skills. Specify skills is the skills the only help you when you are holding a specify kind of weapon.
 
-There are a few skills that matters in a fight, no matter which weapon you are holding, I call them general combat skills. Specify skills is the skills I call that matters to the weapon you are holding. 
+There's only two kind of general combat skill, fighter skill and archer skill. Fighter skill affect how you do in any close range combat and can also be practice and improve at, in close range combat. The funny thing about fighter skill is that, you don't need to hold a weapon to practice and improve it, kicking, biting, striking, and wrestling can also improve fighting.  Archer skill also have the same affect on long range combat. Do it sounds like cheating that you can improve archer skill by using a long range weapon on nothing? I can actually improve my character's archer skill by shooting a tree.
 
-There's two kind of combat skills, general combat skills and specify combat skills. There are only two kind of general combat skill, fighter skill and 
+There are about 30 kind of specify combat skills, nearly half of them are weapon skills. But dwarfs don't know 50% of the weapons skills, because they don't know how to craft them. Lucky that you are playing adventure mode, you can just visit goblin/human sites and grab the weapons that dwarfs can't craft. 
 
+Every good fighter is a good dodger. Without it, you are only a target waiting to be hit. Being a good dodger meant you can win a fight with multiple opponent. Good dodgers will nearly never be hit; and if it's opponent is worst at dodging, it can just take them down one by one. And if you are bad at dodging, you opponent will surely hit you wounded you, which will affect your fighting greatly. Dodging is also you friend when you are trying to escape. Just running away and in a close combat results showing weaknesses, your opponent will have the chance to mortally wounded you before you can escape. But if you dodge away first, your opponent won't have the chance, and than you can run for you life.
+
+Armor skills and armor is the last defense against harm, armor skills controls how well you uses the armor. A good armor user can wear the heaviest armor and not fell a thing, while non-armor user is going to have trouble walking. I think armor skill also effect how well the armor protects you in combats, but I don't know for sure.
+
+I like to see shield skill as a defensive weapon skill, it's really effective in defending. But that's all, a shield have nearly no other uses about from that. And what make a shield sound even more useless? A weapon can also be use in defending, and if you are good enough at it, it might work as well as a shield.
+
+Thrower and misc. object user skill is also worth mentioning, since they can be practice with non-weapon objects and affect how a creature use them in combats. A legendary thrower and misc. object user might even win a fight with sticks and rocks against mega-beasts.
+
+
+### Weapons
