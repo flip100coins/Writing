@@ -260,9 +260,9 @@ Imagine this: the love god Eros from Greek myth flying in the sky with his bow a
 I tried to create this imagine in dwarf fortress, adventure mode. There's actually a good reason why this is useful in the game, let alone fun. 
 
 
-16.6.23 to 23.6.23: collecting material for [[Unfolding adventure mode]], aka playing adventure mode.
+16.6.23 to 23.6.23: collecting material for [[latest/dwarf fortress/Unfolding adventure mode]], aka playing adventure mode.
 
-23.6.23-28.6.23: writing [[Unfolding adventure mode]]. 
+23.6.23-28.6.23: writing [[latest/dwarf fortress/Unfolding adventure mode]]. 
 
 
 7.7.23
@@ -279,8 +279,23 @@ Undeads invade sites in the goblin fashion, which is, direct attack and kill all
 
 Another fortress have come and go; like nearly every other destruction of my fortresses, it's by the hands of undeads. My fortress was in it's early days with just 20 citizens, when an undead troop of 40 people attacked. I didn't even have a military yet; all my citizens are killed without mercy. What's even more upsetting is that not a undead soldiers have been killed throughout the battle. But, I got the key to stops undeads from destroying my site.  
 
-It was pretty obvious to me that, military forces alone can not stop undead forces from destroying my site. So, I constructed a bunch of basic traps in my fortress main hall. They are; stone-fall trap, weapon trap, and cage trap. Stone-fall trap is a trap that drop a stone on it's victim when activated; weapon trap work similarly, with weapons bashing it's victim. They did nothing to stops the undeads, they only managed to creates wounds in the undeads and wounds doesn't them. The cage traps were pretty successive, all of them manage to caught their victim. And when creatures(any creatures) are caught by the cage traps, they have noway of getting out without outside help. But there is just too few of them, if I have manage to build 40 cage traps in my main hall, I might be able to catch all of them.
+It was pretty obvious to me that, military forces alone can not stop undead forces from destroying my site. So, I constructed a bunch of basic traps in my fortress main hall. They are; stone-fall trap, weapon trap, and cage trap. Stone-fall trap drop a stone on it's victim when activated; weapon trap works similarly, with weapons bashing it's victim. They did nothing to stops the undeads, they only managed to creates wounds in the undeads and wounds doesn't them. The cage traps were pretty successive compare to the first two, all of them manage to caught their victim. But a cage trap only can manage to catch one victim, so even after my cage traps caught all of it's victim, there's still enough undead to destroy my site. 
 
 9.7.23
 
+A were-beast attacked my site before the undeads, and guess how strong the were-beast is? It only take a blow from a novice soldier to take it down. 
 
+10.7.23
+
+Victory! My cage traps worked perfectly, an undead troop of 70 fighters attacked my sites, and they are all caught. I want their military equipment(it's worth a lot of money) and them dead without any of my citizens being harm. The question is, how can I manage that? The answer should be in [[Projects]]
+
+
+11.7.23
+
+Elf sites are just so unpredictable. An Elf with less than 10 citizens manage to beat a well-train squad with well-craft equipment. And how did they manage that? Animals; the animals are so good at fighting that the Elves don't even have to get involve. They could just sit there, drinking soda while my dwarfs get their butt kicked rhinos, cheetahs, and other war beasts. Animals are also the same reason why I send my dwarfs to raid Elf site; Elf tamed animals such as grizzly bears and tigers are way more useful than dogs. 
+
+I witness a cave in! Two of my miners are digging above the magma sea when a cave in occurred and they fell in. Which is bad, because I can't find their corpse and bury them. So the return as ghost which make my citizens very unhappy. 
+
+12.7.23
+
+The death of citizens and workers usually happen after I reach the cavern level. 
