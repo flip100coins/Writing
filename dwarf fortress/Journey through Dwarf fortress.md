@@ -298,4 +298,7 @@ I witness a cave in! Two of my miners are digging above the magma sea when a cav
 
 12.7.23
 
-The death of citizens and workers usually happen after I reach the cavern level. 
+Guess what a small fortress lack. Metal? Adamantine? No, the only thing small fortresses lack, is plants that can be brew. My fortresses have plenty of metal, but and 2 x 1 ground doesn't have enough plants for a fortresses of 100 dwarfs, and I'm force to import drinks and plants that can be brew from the traders.
+
+13.7.23
+

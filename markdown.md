@@ -12,13 +12,13 @@ You can also use standard HTML to style text:
 
 #### Checkbox and Task Management
 - [ ]2023-07-16 unchecked
-- [X] checked
+- [x] checked
 - [-] ~~cancelled~~
-- [>] scheduled
+- [x] scheduled
 	[ ]1. eat some vegetables
 	[ ] 2. do some exercises
-- [?] need more info
-- [!] important
+- [x] need more info
+- [x] important
 
 
 #### Quote

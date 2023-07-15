@@ -21,10 +21,5 @@ Project update: all  my squads seems to learn fighting at about the same speed. 
 
 Making all my prisoner take off the armors and drop their weapons aren't easy, but I think it can be done. First of all, I need to release them, and I need to kill them, because that's the only way to take of their armors and grab their weapons. But releasing them one by one and sending my military to kill them is both boring and slow. My plan is to design a trap, which will kill my released prisoners.
 
-Trap design number 1: 
-oooo   oooo
-o########o
-o########o
-o########o
-o########o
+Turns out the whole thing is a waste of time, I can disarm my prisons without building anyway. The simple commands of forbidding and dumping will do the trick.
 
