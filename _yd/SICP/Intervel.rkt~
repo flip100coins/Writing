@@ -1,0 +1,8 @@
+#lang sicp
+(define (mul-interval x y)
+  (cond
+    ((and (postive? (lower-bound x)) (positive? (lower-bound y)))
+     (make-interval (* (lower-bound x) (lower-bound y))
+                    (* (upper-bound x) (upper-bound y)))
+    ((positive? (upper-bound x) 
+               
