@@ -6,4 +6,4 @@ A common idea in creating decks is shortcuts. Powerful cards generally costs man
 
 Another idea is what I call "fulfilling conditions". Some cards can do very powerful things if the condition is fulfill; some of them can even gives you an instant win. The point of "fulfilling conditions", like it's name implies, is too fulfill a card it's condition to release it's power.
 
-The last idea I know is, perme net
+The last idea I know is, permanent net. I
