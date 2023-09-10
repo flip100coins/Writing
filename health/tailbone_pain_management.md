@@ -1,8 +1,31 @@
+# episode 1
 ###### symptoms:
 1. pain around tailbone: sharp pain, happen right after wake up
 2. persistent strain on glutes
 3. dull pain in groin
-Symptoms first appeared on 2023,05,10 and disappeared 
+Symptoms first appeared on 2023,05,10 and disappeared after about 2~3 weeks.
+
+# episode 2
+##### update symptoms 2:
+it first appeared at around 2023,07,09 after a 3x20 reps of weighted squat. it slowly got better over time until 2023,07,22 when i did more forward bend stretch. 
+1. pain around both piriformis and pectineus muscle. piriformis pain is more apparent. 
+2. get better after massage from roller/ball
+
+Diagnosis: it may be a piriformis syndrome, which is caused by piriformis muscle compress sciatic nerve, or sciatica, which is a more general name for any irritation of sciatic nerve. 
+
+Treatment: [^e2treatment]
+1. avoid prolong sitting
+2. back and core exercise every day
+3. do not do heavy lifting, weight squats, or twisting back for first 6 weeks
+
+sciatic nerve is the longest and largest nerve in human. it starts from the outside of lumbar spine, runs through pelvis bone, and out again into top of gluteus muscle (butt), then down along back of each hamstrings (thigh) and calves (low leg). 
+https://en.wikipedia.org/wiki/Sciatic_nerve
+
+##### reference:
+image of pelvis muscles: https://en.wikipedia.org/wiki/Pelvis
+piriformis symptoms: 
+https://www.ncbi.nlm.nih.gov/books/NBK448172/
+https://healthmatch.io/lower-back-pain/lower-back-pain-when-lifting-leg#overview
 
 
 # diagnosis:
@@ -21,6 +44,9 @@ https://www.youtube.com/watch?v=GgAbh8deiEs
 
 3. Piriformis Syndrome
 https://my.clevelandclinic.org/health/diseases/23495-piriformis-syndrome#:~:text=What%20is%20piriformis%20syndrome%3F,is%20a%20flat%2C%20narrow%20muscle.
+
+
+
 
 4. it may be just that i put too much pressure on tailbone
 https://www.nhs.uk/conditions/tailbone-coccyx-pain/#:~:text=repeated%20or%20prolonged%20strain%20on,the%20bottom%20of%20the%20spine
@@ -68,3 +94,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429540/
 some videos about herniated disc:
 https://www.spine-health.com/conditions/herniated-disc
 
+[^e2treatment]: https://www.pennmedicine.org/for-patients-and-visitors/patient-information/conditions-treated-a-to-z/sciatica#:~:text=Sciatica%20refers%20to%20pain%2C%20weakness,a%20medical%20condition%20by%20itself.
