@@ -4,6 +4,6 @@ This "need to have a idea to create a decent deck"  proposition needs a very imp
 
 A common idea in creating decks is shortcuts. Powerful cards generally costs many mana, therefore, it's impossible to play them in the early turns. But, shortcuts can be created to allow you to play them in the early turns, when your opponent can't play their powerful cards(unless their deck also have shortcuts). Surprisingly, some powerful cards have self-contained shortcuts, and sometimes you will have to create your own with multiple cards.
 
-Another idea is what I call "fulfilling conditions". Some cards can do very powerful things if the condition is fulfill; some of them can even gives you an instant win. The point of "fulfilling conditions", like it's name implies, is too fulfill a card it's condition to release it's power.
+Another idea is what I call "fulfilling conditions". Some cards can do very powerful things if the condition is fulfill; like giving you an instant win. The point of "fulfilling conditions", as it's name implies, is to fulfill a card's condition to release it's power.
 
-The last idea I know is, permanent net. I
+The last idea I know is, permanent net. The idea is to use two or more permanents to strengthens and protects each other, or to gives you advantage on the game. One of most 
