@@ -17,10 +17,14 @@ https://github.com/tgvaughan/sicm
    https://www.readbrightly.com/ages-stages/tween/chapter-books-series/
 	https://assets.readbrightly.com/wp-content/uploads/2020/08/Mad-Libs-Workbook-Grade-3.pdfhttps://assets.readbrightly.com/wp-content/uploads/2020/08/Mad-Libs-Workbook-Grade-3.pdf
 - Chinese reading and writing
+	- focus on science/information reading, delay Chinese literature
+	- 
 - Chess
-
+	- minigame on lichess?
+	
 # jh
-- Science of Aging/20 years
+- science of aging/20 years
+- oral care
 - health and neuroscience
 	https://www.youtube.com/@hubermanlab
 

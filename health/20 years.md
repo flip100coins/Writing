@@ -3,3 +3,5 @@ This project gather information on aging research and search for ways to turn ba
 # references
 1. Science of Aging
 https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging
+
+- Aging journal of frontiers: https://www.frontiersin.org/journals/aging
