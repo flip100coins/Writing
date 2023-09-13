@@ -3,7 +3,7 @@ share: true
 ---
 
 ## attribute project
-Project goal: finding out how jobs influence contribute with [[public/dwarf fortress/Dwarf fortress|dwarf fortress]] mode.
+Project goal: finding out how jobs influence contribute with [[Dwarf fortress|dwarf fortress]] mode.
 
 Project plan: body contributes(body contributes are contributes involve with body) influence how fast dwarf learns in military training. The plan is to train all my workers, and see which work influence body contribute the most by the result of how fast they learn.
 
