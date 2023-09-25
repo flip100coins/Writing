@@ -4,6 +4,10 @@ This document plan and track each person's project.
 - learning how to program with Structure and Interpretation of Computer Program
 https://github.com/tgvaughan/sicm
 
+- build rover/robot project
+https://github.com/nasa-jpl/open-source-rover
+
+
 # yn
 - 物质科学4
 	2023,06,25~2023,07,25
